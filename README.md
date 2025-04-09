@@ -113,9 +113,11 @@ Authorization: Bearer <your_jwt_access_token>
   "user": 1
 }
 ```
+Output
 
+All endpoints tested and verified using Postman
 ---
-
+pictures have been added in repository for reference
 ## Author
 
 **Roosso P**  
