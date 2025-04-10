@@ -124,9 +124,9 @@ https://www.youtube.com/watch?v=vMUOq3q8_a0&ab_channel=RoossoP
 ## Author
 
 **Roosso P**  
-📍 Chennai, India  
-🎓 B.Tech – Artificial Intelligence and Data Science  
-💼 Passionate about building intelligent systems and full-stack solutions!
+Chennai, India  
+B.Tech – Artificial Intelligence and Data Science  
+
 
 ---
 
