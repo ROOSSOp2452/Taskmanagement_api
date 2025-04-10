@@ -117,8 +117,8 @@ Output
 
 All endpoints tested and verified using Postman
 ---
-pictures have been added in repository for reference
-Demo Video
+pictures have been added in repository for reference and 
+Demo Video link is following
 -----
 https://www.youtube.com/watch?v=vMUOq3q8_a0&ab_channel=RoossoP
 ## Author
